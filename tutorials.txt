@@ -1,0 +1,2 @@
+https://aryaboudaie.com/python/technical/educational/web/flask/2018/10/17/flask.html
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iii-web-forms
